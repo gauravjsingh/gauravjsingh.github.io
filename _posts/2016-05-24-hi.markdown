@@ -1,0 +1,6 @@
+---
+layout: post
+title:  "Hi!"
+date:   2016-05-24 00:05:42 -0400
+---
+I have a website. I may eventually use it for something.
